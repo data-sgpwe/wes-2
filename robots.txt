@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://data-sgpwe.github.io/wes-2/sitemap.xml
